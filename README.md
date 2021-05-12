@@ -1,4 +1,4 @@
-# Custon-Toast-Kotlin
+# Custom-Toast-Kotlin
 
 # Final Toast will look something like this
 
